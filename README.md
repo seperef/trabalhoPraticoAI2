@@ -1,0 +1,1 @@
+# trabalhoPraticoAI2
